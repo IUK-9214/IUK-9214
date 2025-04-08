@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **MUSIC PLAYER**
 
-- 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT,**
-
 - 📫 How to reach me **ibad50008@gmail.com**
 
 - ⚡ Fun fact **CODING HOBBY**
