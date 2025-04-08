@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm `IBAD ULLAH KHAN</h1>
-<h3 align="center">LEARNING FULL STACK WEB DEVELOPMENT || CODE WITH HARRY</h3>
+<h3 align="center">LEARNING FULL STACK WEB DEVELOPMENT </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iuk-9214&label=Profile%20views&color=0e75b6&style=flat" alt="iuk-9214" /> </p>
 
