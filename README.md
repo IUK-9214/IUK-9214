@@ -15,7 +15,7 @@
 </p>
 
 <!-- Contact Info -->
-<h4 style="color:white;">🔭 I’m currently Working on<strong>React Projects</strong><br>
+<h4 style="color:white;">🔭 I’m currently Working on <strong>React Projects</strong><br>
 📫 Reach me at: <strong>ibad50008@gmail.com</strong><br>
 ⚡ Fun fact: <strong>CODING IS MY HOBBY</strong></h4>
 
