@@ -35,7 +35,31 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
   <a href="https://react.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" style="background-color:white; border-radius:5px; padding:3px;"/></a>
+
+  <!-- Fixed Express.js Logo (visible on dark background) -->
+<!-- Fixed Express.js Logo (High Visibility on Dark Background) -->
+<a href="https://expressjs.com/" target="_blank">
+  <div style="
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    background-color:white;
+    border-radius:10px;
+    padding:6px 10px;
+    margin:3px;
+    box-shadow:0 0 10px rgba(255,255,255,0.3);
+  ">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" 
+      width="60" 
+      height="40" 
+      alt="Express.js Logo" 
+      style="filter: brightness(0) contrast(1.2);"
+    />
+  </div>
+</a>
+
+
   <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
