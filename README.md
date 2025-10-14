@@ -15,7 +15,7 @@
 </p>
 
 <!-- Contact Info -->
-<h4 style="color:white;">🔭 I’m currently Working on <strong>Node.js</strong><br>
+<h4 style="color:white;">🔭 I’m currently Working on <strong>MERN stack CRUD operations</strong><br>
 📫 Reach me at: <strong>ibad50008@gmail.com</strong><br>
 ⚡ Fun fact: <strong>CODING IS MY HOBBY</strong></h4>
 
